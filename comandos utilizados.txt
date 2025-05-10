@@ -7,5 +7,7 @@ git config --global user.name ""
 git remote add origin //link do GitHub// | git remote set-url origin //link do Github
 git push
 git push --set-upstream origin master
+git reflog
+git reset --hard
 
 
