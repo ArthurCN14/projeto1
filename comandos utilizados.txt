@@ -9,5 +9,13 @@ git push
 git push --set-upstream origin master
 git reflog
 git reset --hard
+git branch
 
+para criar branchs
+git branch + o nome da branch
+ex: git branch staging
+
+mudar de branch
+git checkout + nome da branch
+git checkout stanging
 
